@@ -65,8 +65,15 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/ma
 ```
 
 【2】Trojan-Go一键脚本
+
+hostip修改版
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/trojan-go.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/trojan-go_mod1.sh)
+```
+
+hostip去除版
+```
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/trojan-go_mod2.sh)
 ```
 
 ## SSR
