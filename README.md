@@ -1,35 +1,26 @@
-本脚本备份自网络跳越hijk大佬的成果。
-
-脚本相关教程：https://web.archive.org/web/20210617020357/https://v2raytech.com/script-collection/
-
-原Github项目：https://web.archive.org/web/20210902064032/https://github.com/hijkpw/scripts/tree/master
-
-原网站可能已经失效了，所以用网站时光机备份版本。
-
 ## V2ray
 
-【1】V2ray一键脚本CentOS版
-```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/centos_install_v2ray.sh)
-```
-【2】V2ray一键脚本Ubuntu版
-```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ubuntu_install_v2ray.sh)
-```
 【3】V2ray带伪装一键脚本CentOS版
 
 hostip修改版
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/centos_install_v2ray2.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/centos_install_v2ray2_mod1.sh)
 ```
 
 hostip去除版
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/centos_install_v2ray2.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/centos_install_v2ray2_mod2.sh)
 ```
 【4】V2ray带伪装一键脚本Ubuntu版
+
+hostip修改版
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ubuntu_install_v2ray2.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/ubuntu_install_v2ray2_mod1.sh)
+```
+
+hostip去除版
+```
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/ubuntu_install_v2ray2_mod2.sh)
 ```
 【5】V2ray多合一脚本
 
@@ -43,10 +34,6 @@ hostip去除版
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/v2ray_mod2.sh)
 ```
 
-【6】V2ray Go脚本
-```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/goV2.sh)
-```
 ## Xray
 
 【1】Xray一键脚本
