@@ -76,34 +76,6 @@ hostip去除版
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/trojan-go_mod2.sh)
 ```
 
-## SSR
-
-【1】SSR一键脚本CentOS版
-```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/centos_install_ssr.sh)
-```
-【2】SSR一键脚本Ubuntu版
-```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ubuntu_install_ssr.sh)
-```
-【3】SSR一键脚本
-```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ssr.sh)
-```
-## SS
-
-【1】SS一键脚本CentOS版
-```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/centos_install_ss.sh)
-```
-【2】SS一键脚本Ubuntu版
-```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ubuntu_install_ss.sh)
-```
-【3】SS一键脚本
-```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ss.sh)
-```
 ## MTProxy
 
 【1】MTProto一键脚本
