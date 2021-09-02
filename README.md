@@ -53,8 +53,15 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/ma
 ## Trojan
 
 【1】Trojan一键脚本
+
+hostip修改版
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/trojan.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/trojan_mod1.sh)
+```
+
+hostip去除版
+```
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/trojan_mod2.sh)
 ```
 
 【2】Trojan-Go一键脚本
