@@ -1359,9 +1359,9 @@ configV2ray() {
 install() {
     
     if [[ "$PMT" = "apt" ]]; then
-        $CMD_INSTALL  dnsutils dig
+        $CMD_INSTALL dnsutils dig
     elif [[ "$PMT" = "yum" ]]; then
-        $CMD_INSTALL  bind-utils dig
+        $CMD_INSTALL bind-utils dig
     else 
       colorEcho $RED “dig命令可能执行不了，若脚本执行失败，先解决dig” 
     fi
