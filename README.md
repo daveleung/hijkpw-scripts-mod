@@ -17,8 +17,14 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/c
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ubuntu_install_v2ray.sh)
 ```
 【3】V2ray带伪装一键脚本CentOS版
+hostip修改版
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/centos_install_v2ray2.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/centos_install_v2ray2.sh)
+```
+
+hostip去除版
+```
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/centos_install_v2ray2.sh)
 ```
 【4】V2ray带伪装一键脚本Ubuntu版
 ```
