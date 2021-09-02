@@ -25,14 +25,17 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/c
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ubuntu_install_v2ray2.sh)
 ```
 【5】V2ray多合一脚本
+
 hostip修改版
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/v2ray_mod1.sh)
 ```
+
 hostip去除版
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/v2ray_mod2.sh)
 ```
+
 【6】V2ray Go脚本
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/goV2.sh)
