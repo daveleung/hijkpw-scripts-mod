@@ -11,6 +11,7 @@ hostip去除版
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/centos_install_v2ray2_mod2.sh)
 ```
+
 【4】V2ray带伪装一键脚本Ubuntu版
 
 hostip修改版
@@ -22,6 +23,7 @@ hostip去除版
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/ubuntu_install_v2ray2_mod2.sh)
 ```
+
 【5】V2ray多合一脚本
 
 hostip修改版
@@ -37,19 +39,29 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/ma
 ## Xray
 
 【1】Xray一键脚本
+
+hostip修改版
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/xray.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/xray_mod1.sh)
 ```
+
+hostip去除版
+```
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/xray_mod2.sh)
+```
+
 ## Trojan
 
 【1】Trojan一键脚本
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/trojan.sh)
 ```
+
 【2】Trojan-Go一键脚本
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/trojan-go.sh)
 ```
+
 ## SSR
 
 【1】SSR一键脚本CentOS版
