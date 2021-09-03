@@ -6,7 +6,7 @@
 
 hostip修改版是将官方脚本的 hijk.art/host.php 网址进行替换成别的域名IP检测API；
 
-hostip修改版是将官方脚本的 hijk.art/host.php 网址进行剔除；
+hostip去除版是将官方脚本的 hijk.art/host.php 网址进行剔除；
 
 脚本修改尚有不足，请不要将此脚本用于开发环境，感谢提供修改意见的群友，谢谢！
 
