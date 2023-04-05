@@ -1,7 +1,6 @@
 #!/bin/bash
 # xray一键安装脚本
-# Author: hijk<https://hijk.art>
-
+# Author: https://www.kehu33.asia/
 
 RED="\033[31m"      # Error message
 GREEN="\033[32m"    # Success message
@@ -163,7 +162,7 @@ normalizeVersion() {
                 echo "$1"
             ;;
             http*)
-                echo "v1.4.2"
+                echo "v1.5.3"
             ;;
             *)
                 echo "v$1"
@@ -1786,14 +1785,15 @@ showLog() {
 
 menu() {
     clear
-    echo "#############################################################"
-    echo -e "#                     ${RED}Xray一键安装脚本${PLAIN}                      #"
-    echo -e "# ${GREEN}作者${PLAIN}: 网络跳越(hijk)                                      #"
-    echo -e "# ${GREEN}网址${PLAIN}: https://hijk.art                                    #"
-    echo -e "# ${GREEN}论坛${PLAIN}: https://hijk.club                                   #"
-    echo -e "# ${GREEN}TG群${PLAIN}: https://t.me/hijkclub                               #"
-    echo -e "# ${GREEN}Youtube频道${PLAIN}: https://youtube.com/channel/UCYTB--VsObzepVJtc9yvUxQ #"
-    echo "#############################################################"
+    "########################################################################################################################"
+	echo -e "#                     ${RED}Xray一键安装脚本${PLAIN} "	
+    echo -e "# ${GREEN}维护者${PLAIN}: 失落的梦                                           "
+    echo -e "# ${GREEN}博客${PLAIN}: https://www.kehu33.asia                             " 
+    echo -e "# ${GREEN}导航站${PLAIN}: https://www.meng666.buzz        "
+	echo -e "# ${GREEN}YouTube${PLAIN}: https://www.youtube.com/channel/UCmteg7BSPK8pTFvKAlkBoEw     "	
+    echo -e "# ${GREEN}微信${PLAIN}: Falltoher-1314                           " 
+    echo -e "# ${GREEN} qq${PLAIN}: 1150315739                 "		
+	echo "##########################################################################################################################"
     echo -e "  ${GREEN}1.${PLAIN}   安装Xray-VMESS"
     echo -e "  ${GREEN}2.${PLAIN}   安装Xray-${BLUE}VMESS+mKCP${PLAIN}"
     echo -e "  ${GREEN}3.${PLAIN}   安装Xray-VMESS+TCP+TLS"
